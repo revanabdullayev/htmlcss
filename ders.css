@@ -5,6 +5,12 @@ body {
   background-color: brown;
 }
 
-
-div {color: black;}
-h5 {color: blueviolet;}
+div {
+  color: black;
+}
+h5 {
+  color: blueviolet;
+}
+h1 {
+  text-shadow: 2px 2px;
+}
